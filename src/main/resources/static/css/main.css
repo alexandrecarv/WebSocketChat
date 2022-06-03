@@ -28,7 +28,7 @@ body:before {
     position: absolute;
     top: 0;
     left: 0;
-    background: #128ff2;
+    background: #00CED1;
     content: "";
     z-index: 0;
 }
@@ -99,13 +99,13 @@ button.default {
 }
 
 button.primary {
-    background-color: #128ff2;
+    background-color: #00CED1;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
 
 button.accent {
-    background-color: #ff4743;
+    background-color: #00CED1;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
